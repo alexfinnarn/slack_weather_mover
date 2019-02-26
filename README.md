@@ -13,7 +13,8 @@ You should read the linked blog post for more information on setup, but you'll n
 Then, you'll need to change some variables in the `index.js` file. The first variable will be adding the webhook URL and the last two deal with the weather service I decided to use to look up forecast descriptions: https://openweathermap.org/.
 
 ```js
-// You can get your webhook URL from https://api.slack.com/apps/AGG232BPT/incoming-webhooks
+// You can get your webhook URL from https://api.slack.com/apps/XXXXXX/incoming-webhooks
+// The XXXX app ID will be listed under your apps.
 const inboundWebhookURL = '';
 
 // Search for your city and then look in the URL for the ID.
