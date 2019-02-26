@@ -1,8 +1,8 @@
 # Slack Weather Mover
 
-Do you tend to have Slack open on your laptop most waking hours of the day? Do you sit around more ofthen than you'd like? Well if you're a web developer like me, you probably answered yes to both of these questions. 
+Do you tend to have Slack open on your laptop most waking hours of the day? Do you sit around more often than you'd like? Well if you're a web developer like me, you probably answered yes to both of those questions. 
 
-In this sample app, you can see working solution that posts a reminder to move around to a Slack channel of your choice. You'll need to setup a Slack workspace, add an inbound Webhook, and set some variables in the `index.js` script, but after that you can use and modify this script to periodically post dynamic messages to Slack.
+In this sample app, you can see a working solution that posts a reminder to move around to a Slack channel of your choice. You'll need to setup a Slack workspace, add an inbound webhook, and set some variables in the `index.js` script, but after that you can use and modify this script to periodically post dynamic messages to Slack.
 
 This repo is tied to a blog post with more information on the background and rationale for creating the script:
 
