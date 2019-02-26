@@ -4,7 +4,7 @@ Do you tend to have Slack open on your laptop most waking hours of the day? Do y
 
 In this sample app, you can see a working solution that posts a reminder to move around to a Slack channel of your choice. You'll need to setup a Slack workspace, add an inbound webhook, and set some variables in the `index.js` script, but after that you can use and modify this script to periodically post dynamic messages to Slack.
 
-This repo is tied to a blog post with more information on the background and rationale for creating the script:
+This repo is tied to a blog post with more information on the background and rationale for creating the script: https://medium.com/@alexfinnarn/building-slack-bots-february-2019-edition-of-the-columbus-javascript-usergroup-6210772e07b6
 
 ## Setup
 
